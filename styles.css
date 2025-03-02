@@ -1,0 +1,22 @@
+#header {
+    display: flex;
+    font-family: Roboto;
+    color: white;
+    background-color: #1F2937;
+}
+
+.logo {
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+}
+
+.menu {
+    display: flex;
+    justify-content: flex-end;
+    float: right;
+}
+
+.first-section {
+    padding: 100px;
+}
